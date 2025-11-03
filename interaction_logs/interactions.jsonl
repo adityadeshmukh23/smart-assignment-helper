@@ -1,0 +1,4 @@
+# This file will store interaction logs in JSONL format
+# Each line is a JSON object with timestamp, assignment, planner_prompt, planner_response, and executor_calls
+# Example:
+# {"timestamp": "2025-11-03T13:00:00Z", "assignment": "...", "planner_prompt": "...", "planner_response": {...}, "executor_calls": [...]}
